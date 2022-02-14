@@ -1,9 +1,3 @@
-//1) Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
-
-console.log("Olá, mundo!")
-
-let frase = 'Olá, mundo!'
-console.log(frase)
 
 
 /*2) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boasvindas para ela:
