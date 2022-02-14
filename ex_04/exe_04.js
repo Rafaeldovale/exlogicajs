@@ -13,5 +13,5 @@ b = parseFloat(b)
 
 var result = a+b
 
-alert(" A soma entre "+ a + " e " + b + " é igual a "+ result)
+alert(" A soma entre "+ a + " e " + b + " é igual a " + result)
 

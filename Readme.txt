@@ -19,8 +19,8 @@ O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho.
 entre eles.
 Ex:
 Digite um valor: 8
-Digite outro valor: 5
-A soma entre 8 e 5 é igual a 13.
+Digite outro valor: 6
+A soma entre 8 e 5 é igual a 14.
 
 5) Faça um programa que leia as duas notas de um aluno em uma matéria e mostre
 na tela a sua média na disciplina.
