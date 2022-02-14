@@ -12,4 +12,4 @@ var b = prompt("Entre com a 2º nota")
 b = parseFloat(b)
 
 var result = (a+b)/2
-alert("A média entre "+a+" e "+b+" é igual a "+result)
+alert("A média entre "+a+" e "+b+" é igual a "+ result)
