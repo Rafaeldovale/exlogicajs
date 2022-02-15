@@ -54,3 +54,6 @@ A distância de 85.7m corresponde a:
 1857.2dm
 18572.0cm
 185720.0mm
+
+9) Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$)
+e mostre quantos dólares ela pode comprar. Considere US$1,00 = R$3,45.
