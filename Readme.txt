@@ -75,3 +75,7 @@ seu novo salário, com 15% de aumento.
 um programa que pergunte a quantidade de Km percorridos por um carro alugado e a
 quantidade de dias pelos quais ele foi alugado. Calcule o preço total a pagar,
 sabendo que o carro custa R$90 por dia e R$0,20 por Km rodado.
+
+15) Crie um programa que leia o número de dias trabalhados em um mês e mostre o
+salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25
+por hora trabalhada.
